@@ -116,4 +116,3 @@ important for this project)
 - <i class="far fa-open_book"></i> [Built-in Exceptions in Python](https://docs.python.org/3/library/exceptions.html#bltin-exceptions)
 - <i class="far fa-open_book"></i> [Modifying objects in-place](https://learn.code.cool/full-stack/#/../pages/python/modifying-objects)
 - <i class="far fa-open_book"></i> [Understanding Variable scope, lifetime, modifying values and type conversions](https://learn.code.cool/full-stack/#/../pages/python/variable-scopes-and-conversions)
-
